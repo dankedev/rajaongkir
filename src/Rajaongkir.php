@@ -131,6 +131,9 @@ class Rajaongkir
             'first',
             'ncs',
             'star',
+            'ninja',
+            'lion',
+            'idl',
         ],
     ];
 
